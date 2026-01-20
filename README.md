@@ -40,7 +40,7 @@ We propose a **cart abandonment intelligence framework** that combines behaviora
 
 ---
 
-## 🔍 Data Strategy (Conceptual)
+## Data Strategy (Conceptual)
 
 The solution is designed around first-party behavioral and transactional signals:
 
@@ -55,7 +55,7 @@ All data considerations align with privacy and consent principles (GDPR, CCPA).
 
 ---
 
-## 🤖 Modeling Approach (Design-Level)
+## Modeling Approach (Design-Level)
 
 The proposed framework consists of four complementary components:
 
@@ -113,6 +113,6 @@ This project demonstrates:
 
 ---
 
-## 📬 Contact
+## Contact
 
 Feel free to reach out for questions, feedback, or collaboration.
