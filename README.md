@@ -75,13 +75,17 @@ The proposed framework consists of four complementary components:
 
 ---
 
-## Dashboard Prototype
+## Dashboard Prototype (Figma)
 
-A conceptual dashboard was designed to help decision-makers answer:
-- Who is most at risk of abandoning?
-- Which segments require intervention?
-- Which products and categories drive friction?
-- What actions are likely to increase conversion?
+This file documents the conceptual dashboard designed for the Amazon cart abandonment intelligence system.
+
+🔗 Interactive Figma Prototype:
+[https://www.figma.com/make/viTDSba7iPgefdVgdh629C/Cart-Abandonment-Intelligence?fullscreen=1&t=J3CrI6RlcMI9FS0x-1]
+
+## Purpose
+- Translate model outputs into executive-ready insights
+- Support regional decision-making
+- Enable scalable intervention strategies
 
 ---
 
